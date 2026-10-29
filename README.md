@@ -123,6 +123,7 @@ Após o login, o usuário tem acesso a um painel robusto controlado por uma nave
 
 
 🔗 Protótipo Interativo no Figma
+https://www.figma.com/design/Q0uTxF8slU8qRIbNUkT1zT/e-MAILS-Flash?node-id=1-7829&t=v2uP25O9cQYkIyyk-1
 
 O protótipo navegável completo, contemplando todas as transições entre login, cadastro, navegação no dashboard e a edição de e-mails sugeridos, pode ser acessado através do link abaixo:
 
